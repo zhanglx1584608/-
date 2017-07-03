@@ -1,0 +1,81 @@
+/*ÄÚÈÝ*/
+.dq{
+    width: 1100px;
+    height:56px;
+    border-bottom: 1px solid #e6e6e6;
+    margin: 0 auto;
+}
+.dq>div.dqlm{
+    height: 56px;
+    padding-left: 30px;
+    font-size: 14px;
+    color: #333;
+    background: url(zj_bg_211_03.png) no-repeat 0 20px;
+    line-height: 56px;
+}
+.content_lm{
+    width: 1100px;
+    min-height:680px;
+    margin: 0 auto;
+}
+.content_lm>ul>li{
+    height: 150px;
+    padding: 30px 0;
+    border-bottom: 1px solid #e6e6e6;
+}
+.content_lm>ul>li>div{
+    width: 90px;
+    height: 90px;
+    float: left;
+    margin-right: 30px;
+}
+.content_lm>ul>li>div>p{
+    height: 44px;
+    background:#efefef;
+    text-align: center;
+    line-height: 44px;
+    color: #666;
+    font-size: 11px;
+}
+.content_lm>ul>li>div>p.first_p{
+    height: 45px;
+    border-bottom: 1px solid #ffffff;
+    color: #27a1e8;
+    font-size: 13px;
+    font-weight: bold;
+
+}
+.content_lm>ul>li>p{
+    float: left;
+    height: 60px;
+    line-height: 30px;
+    font-size: 13px;
+    color: #666;
+    width: 970px;
+}
+.content_lm>ul>li>p>a{
+    color: #28a1e8;
+    font-size: 14px;
+}
+.content_lm>ul>li>p.title_lm{
+    float: left;
+    height: 30px;
+    font-size: 17px;
+    color: #333;
+    width: 970px;
+    font-weight: bold;
+}
+/*µÇÂ½×¢²á*/
+.login{
+    float: right;
+    width: 60px;
+    height: 28px;
+    border: 1px solid #fff;
+    border-radius: 14px;
+    text-align: center;
+    line-height: 28px;
+    font-size: 13px;
+    color: #fff;
+    margin-top:10px;
+    margin-left: 10px;
+}
